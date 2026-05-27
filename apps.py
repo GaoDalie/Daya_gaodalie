@@ -376,6 +376,10 @@ async def index_from_url(req: URLRequest):
 
 
 
+class QueryRequest(BaseModel):
+    question: str
+
+
 @app.post("/query")
 def query(req: QueryRequest):
     """Ask a question about the indexed document."""
