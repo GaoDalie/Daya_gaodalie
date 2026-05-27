@@ -1,0 +1,9 @@
+streamlit
+openai
+chromadb
+docling
+docling-core
+python-pptx
+pypdf
+pymupdf
+httpx
