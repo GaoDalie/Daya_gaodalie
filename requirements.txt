@@ -1,4 +1,5 @@
-streamlit
+fastapi
+uvicorn
 openai
 chromadb
 docling
@@ -7,3 +8,4 @@ python-pptx
 pypdf
 pymupdf
 httpx
+python-multipart
